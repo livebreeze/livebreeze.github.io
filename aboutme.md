@@ -1,16 +1,11 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: I'm livebreeze
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+Hello, my name is Sean Chen.
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+I am passionate about sharing my knowledge and experiences in the field of learning. Currently, I work as a front-end developer and reside in Taichung, Taiwan. My expertise lies in C#, JavaScript, and MS SQL technology. I have hands-on experience with frameworks such as React, React Native, ASP.NET MVC, and jQuery, which I utilize to create both E-commerce websites and mobile applications.
 
-What else do you need?
-
-### My story
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+My current focus is on expanding my skills in code development while also actively sharing my expertise with others.
