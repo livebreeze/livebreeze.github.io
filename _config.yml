@@ -10,7 +10,7 @@
 ############################
 
 # Name of website
-title: livebreeze blog
+title: livebreeze's blog
 
 # Your name to show in the footer
 author: Sean Chen
@@ -22,10 +22,10 @@ author: Sean Chen
 navbar-links:
   About Me: "aboutme"
   Resources:
-    - iThome: "https://www.ithome.com.tw/"
-    - TechOrange: "https://buzzorange.com/techorange/"
-    - Medium: "https://medium.com//"
-    - TechChurnch: "https://techcrunch.com/"
+    - iThome: "https://www.ithome.com.tw"
+    - TechOrange: "https://buzzorange.com/techorange"
+    - Medium: "https://medium.com"
+    - TechChurnch: "https://techcrunch.com"
   Author's home: "https://livebreeze.github.io"
 
 ################
@@ -61,7 +61,7 @@ social-network-links:
   youtube: livebreeze
 #  medium: yourname
 #  reddit: yourname
- linkedin: livebreeze
+#  linkedin: livebreeze
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
