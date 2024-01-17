@@ -30,8 +30,6 @@ tags: [seo, performance]
     - 執行下載時間點
 - Others: 若能保證上述 3 個時間，暫先排除 browser 端渲染速度影響 (inject, react render)
 
----
-
 ## How to Validate LCP
 
 ### 測量目標
@@ -73,9 +71,9 @@ CPU 2~4x slow
 
 ### 測量工具
 
-- 如何思考速度工具  |  Articles  |  web.dev
+- 如何思考速度工具  \|  Articles  \|  web.dev
 - 評估及回報網站體驗核心指標的工具
-- <https://web.dev/articles/vitals-tools#step_2_debug_and_optimize>
+- [https://web.dev/articles/vitals-tools#step_2_debug_and_optimize](https://web.dev/articles/vitals-tools#step_2_debug_and_optimize)
 
 #### Google Search Console (GSC)
 
@@ -120,9 +118,9 @@ Performance API
 
 ## Reference
 
-- <https://web.dev/articles/lab-and-field-data-differences#lcp>
-- [最佳化最大內容繪製  |  Articles  |  web.dev](https://web.dev/articles/optimize-lcp?hl=zh-tw)
-- [今晚，我想來點 Web 前端效能優化大補帖！. 效能是工程師在維護專案時非常重視的要點，不論是 Web 還是… | by 莫力全 Kyle Mo | Starbugs Weekly 星巴哥技術專欄 | Medium](https://medium.com/starbugs/%E4%BB%8A%E6%99%9A-%E6%88%91%E6%83%B3%E4%BE%86%E9%BB%9E-web-%E5%89%8D%E7%AB%AF%E6%95%88%E8%83%BD%E5%84%AA%E5%8C%96%E5%A4%A7%E8%A3%9C%E5%B8%96-e1a5805c1ca2)
-- [關鍵轉譯路徑  |  Articles  |  web.dev](https://web.dev/articles/critical-rendering-path?hl=zh-tw)
-- [網站使用體驗指標  |  Articles  |  web.dev](https://web.dev/articles/vitals?hl=zh-tw)
+- [https://web.dev/articles/lab-and-field-data-differences#lcp](https://web.dev/articles/lab-and-field-data-differences#lcp)
+- [最佳化最大內容繪製 \| Articles \| web.dev](https://web.dev/articles/optimize-lcp?hl=zh-tw)
+- [今晚，我想來點 Web 前端效能優化大補帖！. 效能是工程師在維護專案時非常重視的要點，不論是 Web 還是… \| by 莫力全 Kyle Mo \| Starbugs Weekly 星巴哥技術專欄 \| Medium](https://medium.com/starbugs/%E4%BB%8A%E6%99%9A-%E6%88%91%E6%83%B3%E4%BE%86%E9%BB%9E-web-%E5%89%8D%E7%AB%AF%E6%95%88%E8%83%BD%E5%84%AA%E5%8C%96%E5%A4%A7%E8%A3%9C%E5%B8%96-e1a5805c1ca2)
+- [關鍵轉譯路徑  \|  Articles  \|  web.dev](https://web.dev/articles/critical-rendering-path?hl=zh-tw)
+- [網站使用體驗指標  \|  Articles  \|  web.dev](https://web.dev/articles/vitals?hl=zh-tw)
 - [Optimize your mobile site or app - Think with Google](https://www.thinkwithgoogle.com/marketing-strategies/app-and-mobile/mobile-tools-to-optimize-site-and-app/)
